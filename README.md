@@ -6,3 +6,4 @@
 [01. 프로그래밍](https://github.com/rwony/modern-js-deep-dive-study/blob/main/01%20Programming/programming.md)
 
 ### 2. 자바스크립트란?
+[02. 자바스크립트란?](https://github.com/rwony/modern-js-deep-dive-study/blob/main/02%20Javascript/Javascript.md)
