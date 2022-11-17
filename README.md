@@ -10,4 +10,4 @@
 
 
 ### 3. 자바스크립트 개발 환경
-[03. 자바스크립트 개발 환경](https://github.com/rwony/modern-js-deep-dive-study/tree/main)
+[03. 자바스크립트 개발 환경](https://github.com/rwony/modern-js-deep-dive-study/blob/main/03%20Javascript%20development%20environment/Javascript-development-environment.md)
